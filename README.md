@@ -17,3 +17,5 @@ Q-5 : https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dime
 Q-6 : https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/vanya-and-gcd-array/
 
 q-7 : https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/rhezo-and-prime-problems/
+
+Q-8 : https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/pankaj-and-his-in-laws/
