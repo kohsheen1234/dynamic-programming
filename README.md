@@ -11,3 +11,5 @@ Q-2 : https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dime
 Q-3 : https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/ball-elimination/description/
 
 Q-4 : https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/help-ashwin/
+
+Q-5 : https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/final-voyage-1/description/
